@@ -1,0 +1,2 @@
+(load-file "myscript.clj")
+(load-file "hello.clj")
